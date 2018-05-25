@@ -47,6 +47,8 @@ eventbrite:       # optional (insert the alphanumeric key for Eventbrite registr
 
 <h2 id="general">General Information</h2>
 
+<a href="https://go.researchpark.illinois.edu/SoftwareCarpentry">Please register here to attend.</a>
+
 {% comment %}
   INTRODUCTION
 
